@@ -1,0 +1,32 @@
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    height: 50px;
+    padding: 15px;
+  }
+
+table {
+    width: 100%;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#days {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+td {
+    font-weight: bold;
+}
+
+#main_header{
+    border: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
